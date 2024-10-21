@@ -1,0 +1,2 @@
+# polynomial-eq
+make graph
